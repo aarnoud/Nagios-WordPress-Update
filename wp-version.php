@@ -4,6 +4,9 @@
 // It is safe to keep 127.0.0.1
 $allowed_ips = array(
 	'127.0.0.1',
+	'172.20.1.251',
+	'91.121.38.1',
+	'37.59.11.108'
 );
 
 $remote_ip = $_SERVER['REMOTE_ADDR'];
